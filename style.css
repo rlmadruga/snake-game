@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  background-color: #2d3242;
+}
+body {
+  font-family: "VT323", monospace;
+  font-size: 30px;
+  height: 95vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  color: #e3ded8;
+}
